@@ -1,4 +1,4 @@
-class Car: #we need a speacial method called a constructor, similar to a function
+class Car: #we need a special method called a constructor, similar to a function
     def __init__(self, model, year, color, for_sale): # we need this to construct object <-- self means this object rn
         #make sure to set the parameters after self
         
